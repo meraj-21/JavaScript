@@ -1,2 +1,2 @@
 # JavaScript
-A code repository for learing javascript.
+A code repository for learning javascript.
